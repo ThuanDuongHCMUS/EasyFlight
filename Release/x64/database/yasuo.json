@@ -1,0 +1,51 @@
+{
+    "hotels": [
+        {
+            "capacity": 250,
+            "cost": 1000,
+            "current": 46,
+            "id": "DC7119",
+            "location": "Da Lat",
+            "name": "Colline Dalat"
+        },
+        {
+            "capacity": 300,
+            "cost": 300,
+            "current": 252,
+            "id": "PP1383",
+            "location": "Phu Quoc",
+            "name": "Perle d'Orient Cat Ba"
+        }
+    ],
+    "tickets": [
+        {
+            "ArrivalAirport": "HAN",
+            "ArrivalTime": "060120222320",
+            "DepartureAirport": "SGN",
+            "DepartureTime": "060120222110",
+            "fare": 1450,
+            "id": "HS693",
+            "name": "QH-242"
+        },
+        {
+            "ArrivalAirport": "HUI",
+            "ArrivalTime": "070120220110",
+            "DepartureAirport": "HAN",
+            "DepartureTime": "060120222355",
+            "fare": 450,
+            "id": "HH68",
+            "name": "VJ-137"
+        }
+    ],
+    "transports": [
+        {
+            "ID": "VN4757",
+            "cost": 310,
+            "current": false,
+            "location": "Phu Quoc",
+            "range": 0,
+            "time": "0645",
+            "type": "GRAB"
+        }
+    ]
+}

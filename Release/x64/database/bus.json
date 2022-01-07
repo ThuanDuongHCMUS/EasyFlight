@@ -1,0 +1,902 @@
+[
+    {
+        "ID": "VN6157",
+        "capacity": 48,
+        "cost": 70,
+        "current": 31,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "0415"
+    },
+    {
+        "ID": "VN1291",
+        "capacity": 40,
+        "cost": 400,
+        "current": 16,
+        "location": "Hue",
+        "range": 10,
+        "time": "0425"
+    },
+    {
+        "ID": "VN1330",
+        "capacity": 48,
+        "cost": 190,
+        "current": 29,
+        "location": "Vinh",
+        "range": 25,
+        "time": "1550"
+    },
+    {
+        "ID": "VN5281",
+        "capacity": 40,
+        "cost": 320,
+        "current": 11,
+        "location": "Da Nang",
+        "range": 50,
+        "time": "1500"
+    },
+    {
+        "ID": "VN5744",
+        "capacity": 56,
+        "cost": 500,
+        "current": 30,
+        "location": "Nha Trang",
+        "range": 5,
+        "time": "1555"
+    },
+    {
+        "ID": "VN5496",
+        "capacity": 40,
+        "cost": 310,
+        "current": 29,
+        "location": "Ha Noi",
+        "range": 10,
+        "time": "1605"
+    },
+    {
+        "ID": "VN6553",
+        "capacity": 56,
+        "cost": 390,
+        "current": 28,
+        "location": "Phu Quoc",
+        "range": 51,
+        "time": "1455"
+    },
+    {
+        "ID": "VN8642",
+        "capacity": 44,
+        "cost": 370,
+        "current": 38,
+        "location": "Da Nang",
+        "range": 25,
+        "time": "0635"
+    },
+    {
+        "ID": "VN9693",
+        "capacity": 56,
+        "cost": 230,
+        "current": 33,
+        "location": "Hue",
+        "range": 51,
+        "time": "2200"
+    },
+    {
+        "ID": "VN6031",
+        "capacity": 52,
+        "cost": 240,
+        "current": 20,
+        "location": "Hue",
+        "range": 51,
+        "time": "1050"
+    },
+    {
+        "ID": "VN3605",
+        "capacity": 44,
+        "cost": 240,
+        "current": 40,
+        "location": "Phu Quoc",
+        "range": 51,
+        "time": "1705"
+    },
+    {
+        "ID": "VN3986",
+        "capacity": 48,
+        "cost": 200,
+        "current": 18,
+        "location": "Ha Noi",
+        "range": 51,
+        "time": "1950"
+    },
+    {
+        "ID": "VN4402",
+        "capacity": 40,
+        "cost": 210,
+        "current": 15,
+        "location": "Hai Phong",
+        "range": 51,
+        "time": "0955"
+    },
+    {
+        "ID": "VN1627",
+        "capacity": 56,
+        "cost": 190,
+        "current": 33,
+        "location": "Nha Trang",
+        "range": 50,
+        "time": "0440"
+    },
+    {
+        "ID": "VN5966",
+        "capacity": 56,
+        "cost": 180,
+        "current": 11,
+        "location": "Da Lat",
+        "range": 10,
+        "time": "0720"
+    },
+    {
+        "ID": "VN3274",
+        "capacity": 52,
+        "cost": 240,
+        "current": 33,
+        "location": "Da Lat",
+        "range": 51,
+        "time": "2135"
+    },
+    {
+        "ID": "VN5969",
+        "capacity": 40,
+        "cost": 330,
+        "current": 25,
+        "location": "Ha Noi",
+        "range": 5,
+        "time": "1305"
+    },
+    {
+        "ID": "VN2705",
+        "capacity": 44,
+        "cost": 350,
+        "current": 15,
+        "location": "Phu Quoc",
+        "range": 50,
+        "time": "2055"
+    },
+    {
+        "ID": "VN6044",
+        "capacity": 56,
+        "cost": 520,
+        "current": 2,
+        "location": "Hue",
+        "range": 25,
+        "time": "1820"
+    },
+    {
+        "ID": "VN3857",
+        "capacity": 52,
+        "cost": 180,
+        "current": 29,
+        "location": "Vinh",
+        "range": 25,
+        "time": "1345"
+    },
+    {
+        "ID": "VN1113",
+        "capacity": 40,
+        "cost": 200,
+        "current": 23,
+        "location": "Vinh",
+        "range": 5,
+        "time": "1415"
+    },
+    {
+        "ID": "VN5083",
+        "capacity": 44,
+        "cost": 60,
+        "current": 12,
+        "location": "Ha Noi",
+        "range": 5,
+        "time": "1650"
+    },
+    {
+        "ID": "VN4712",
+        "capacity": 48,
+        "cost": 360,
+        "current": 1,
+        "location": "Vinh",
+        "range": 10,
+        "time": "1610"
+    },
+    {
+        "ID": "VN2551",
+        "capacity": 56,
+        "cost": 110,
+        "current": 0,
+        "location": "Da Lat",
+        "range": 5,
+        "time": "2210"
+    },
+    {
+        "ID": "VN2322",
+        "capacity": 56,
+        "cost": 510,
+        "current": 41,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "2220"
+    },
+    {
+        "ID": "VN4040",
+        "capacity": 44,
+        "cost": 520,
+        "current": 6,
+        "location": "Hue",
+        "range": 50,
+        "time": "2310"
+    },
+    {
+        "ID": "VN3001",
+        "capacity": 56,
+        "cost": 480,
+        "current": 48,
+        "location": "Da Lat",
+        "range": 5,
+        "time": "2250"
+    },
+    {
+        "ID": "VN5333",
+        "capacity": 56,
+        "cost": 520,
+        "current": 16,
+        "location": "Hue",
+        "range": 5,
+        "time": "1210"
+    },
+    {
+        "ID": "VN1709",
+        "capacity": 52,
+        "cost": 540,
+        "current": 31,
+        "location": "Phu Quoc",
+        "range": 10,
+        "time": "2300"
+    },
+    {
+        "ID": "VN9784",
+        "capacity": 40,
+        "cost": 340,
+        "current": 14,
+        "location": "Sai Gon",
+        "range": 51,
+        "time": "2330"
+    },
+    {
+        "ID": "VN7871",
+        "capacity": 40,
+        "cost": 300,
+        "current": 15,
+        "location": "Ha Noi",
+        "range": 25,
+        "time": "2205"
+    },
+    {
+        "ID": "VN2874",
+        "capacity": 56,
+        "cost": 310,
+        "current": 49,
+        "location": "Ha Noi",
+        "range": 50,
+        "time": "1215"
+    },
+    {
+        "ID": "VN6313",
+        "capacity": 56,
+        "cost": 260,
+        "current": 1,
+        "location": "Sai Gon",
+        "range": 10,
+        "time": "0610"
+    },
+    {
+        "ID": "VN8916",
+        "capacity": 48,
+        "cost": 210,
+        "current": 19,
+        "location": "Hue",
+        "range": 25,
+        "time": "1035"
+    },
+    {
+        "ID": "VN5211",
+        "capacity": 48,
+        "cost": 70,
+        "current": 5,
+        "location": "Nha Trang",
+        "range": 25,
+        "time": "0805"
+    },
+    {
+        "ID": "VN4006",
+        "capacity": 52,
+        "cost": 470,
+        "current": 33,
+        "location": "Da Lat",
+        "range": 50,
+        "time": "1040"
+    },
+    {
+        "ID": "VN2103",
+        "capacity": 56,
+        "cost": 440,
+        "current": 6,
+        "location": "Phu Quoc",
+        "range": 10,
+        "time": "1740"
+    },
+    {
+        "ID": "VN5499",
+        "capacity": 48,
+        "cost": 540,
+        "current": 31,
+        "location": "Phu Quoc",
+        "range": 5,
+        "time": "1520"
+    },
+    {
+        "ID": "VN4836",
+        "capacity": 44,
+        "cost": 510,
+        "current": 12,
+        "location": "Hai Phong",
+        "range": 51,
+        "time": "0600"
+    },
+    {
+        "ID": "VN2258",
+        "capacity": 44,
+        "cost": 520,
+        "current": 22,
+        "location": "Hue",
+        "range": 10,
+        "time": "0525"
+    },
+    {
+        "ID": "VN1509",
+        "capacity": 40,
+        "cost": 390,
+        "current": 23,
+        "location": "Hai Phong",
+        "range": 10,
+        "time": "0935"
+    },
+    {
+        "ID": "VN6293",
+        "capacity": 40,
+        "cost": 540,
+        "current": 16,
+        "location": "Nha Trang",
+        "range": 25,
+        "time": "2200"
+    },
+    {
+        "ID": "VN1259",
+        "capacity": 48,
+        "cost": 370,
+        "current": 10,
+        "location": "Da Nang",
+        "range": 5,
+        "time": "0030"
+    },
+    {
+        "ID": "VN9317",
+        "capacity": 44,
+        "cost": 100,
+        "current": 42,
+        "location": "Hai Phong",
+        "range": 5,
+        "time": "1225"
+    },
+    {
+        "ID": "VN2357",
+        "capacity": 44,
+        "cost": 320,
+        "current": 28,
+        "location": "Da Nang",
+        "range": 50,
+        "time": "0950"
+    },
+    {
+        "ID": "VN6682",
+        "capacity": 40,
+        "cost": 70,
+        "current": 32,
+        "location": "Ha Noi",
+        "range": 51,
+        "time": "1800"
+    },
+    {
+        "ID": "VN1382",
+        "capacity": 40,
+        "cost": 350,
+        "current": 39,
+        "location": "Sai Gon",
+        "range": 5,
+        "time": "2310"
+    },
+    {
+        "ID": "VN9335",
+        "capacity": 52,
+        "cost": 400,
+        "current": 19,
+        "location": "Da Nang",
+        "range": 5,
+        "time": "2015"
+    },
+    {
+        "ID": "VN1935",
+        "capacity": 52,
+        "cost": 200,
+        "current": 13,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "2305"
+    },
+    {
+        "ID": "VN7283",
+        "capacity": 56,
+        "cost": 470,
+        "current": 45,
+        "location": "Hue",
+        "range": 25,
+        "time": "0325"
+    },
+    {
+        "ID": "VN8343",
+        "capacity": 48,
+        "cost": 340,
+        "current": 13,
+        "location": "Phu Quoc",
+        "range": 25,
+        "time": "1135"
+    },
+    {
+        "ID": "VN7856",
+        "capacity": 44,
+        "cost": 190,
+        "current": 42,
+        "location": "Da Nang",
+        "range": 10,
+        "time": "1340"
+    },
+    {
+        "ID": "VN6689",
+        "capacity": 40,
+        "cost": 400,
+        "current": 33,
+        "location": "Phu Quoc",
+        "range": 10,
+        "time": "2125"
+    },
+    {
+        "ID": "VN3103",
+        "capacity": 56,
+        "cost": 110,
+        "current": 31,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "1420"
+    },
+    {
+        "ID": "VN1669",
+        "capacity": 44,
+        "cost": 170,
+        "current": 43,
+        "location": "Hue",
+        "range": 5,
+        "time": "2205"
+    },
+    {
+        "ID": "VN4121",
+        "capacity": 56,
+        "cost": 290,
+        "current": 34,
+        "location": "Phu Quoc",
+        "range": 5,
+        "time": "1530"
+    },
+    {
+        "ID": "VN5229",
+        "capacity": 40,
+        "cost": 200,
+        "current": 10,
+        "location": "Nha Trang",
+        "range": 50,
+        "time": "0945"
+    },
+    {
+        "ID": "VN3383",
+        "capacity": 48,
+        "cost": 310,
+        "current": 32,
+        "location": "Ha Noi",
+        "range": 25,
+        "time": "1805"
+    },
+    {
+        "ID": "VN5353",
+        "capacity": 56,
+        "cost": 70,
+        "current": 24,
+        "location": "Hai Phong",
+        "range": 10,
+        "time": "1835"
+    },
+    {
+        "ID": "VN9065",
+        "capacity": 40,
+        "cost": 460,
+        "current": 9,
+        "location": "Vinh",
+        "range": 50,
+        "time": "2310"
+    },
+    {
+        "ID": "VN9394",
+        "capacity": 40,
+        "cost": 430,
+        "current": 14,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "2205"
+    },
+    {
+        "ID": "VN9218",
+        "capacity": 52,
+        "cost": 400,
+        "current": 26,
+        "location": "Hai Phong",
+        "range": 25,
+        "time": "0600"
+    },
+    {
+        "ID": "VN8242",
+        "capacity": 48,
+        "cost": 170,
+        "current": 13,
+        "location": "Vinh",
+        "range": 50,
+        "time": "1500"
+    },
+    {
+        "ID": "VN6785",
+        "capacity": 40,
+        "cost": 530,
+        "current": 25,
+        "location": "Nha Trang",
+        "range": 50,
+        "time": "1635"
+    },
+    {
+        "ID": "VN4881",
+        "capacity": 52,
+        "cost": 180,
+        "current": 34,
+        "location": "Hue",
+        "range": 51,
+        "time": "0225"
+    },
+    {
+        "ID": "VN5704",
+        "capacity": 48,
+        "cost": 330,
+        "current": 3,
+        "location": "Phu Quoc",
+        "range": 50,
+        "time": "0335"
+    },
+    {
+        "ID": "VN3720",
+        "capacity": 52,
+        "cost": 500,
+        "current": 2,
+        "location": "Hue",
+        "range": 25,
+        "time": "1220"
+    },
+    {
+        "ID": "VN8536",
+        "capacity": 52,
+        "cost": 200,
+        "current": 35,
+        "location": "Nha Trang",
+        "range": 5,
+        "time": "0650"
+    },
+    {
+        "ID": "VN3153",
+        "capacity": 56,
+        "cost": 120,
+        "current": 42,
+        "location": "Ha Noi",
+        "range": 50,
+        "time": "0445"
+    },
+    {
+        "ID": "VN2561",
+        "capacity": 44,
+        "cost": 450,
+        "current": 21,
+        "location": "Phu Quoc",
+        "range": 25,
+        "time": "1225"
+    },
+    {
+        "ID": "VN1492",
+        "capacity": 48,
+        "cost": 530,
+        "current": 39,
+        "location": "Nha Trang",
+        "range": 51,
+        "time": "0815"
+    },
+    {
+        "ID": "VN3806",
+        "capacity": 48,
+        "cost": 440,
+        "current": 39,
+        "location": "Hue",
+        "range": 51,
+        "time": "1515"
+    },
+    {
+        "ID": "VN7530",
+        "capacity": 48,
+        "cost": 140,
+        "current": 2,
+        "location": "Da Lat",
+        "range": 51,
+        "time": "1640"
+    },
+    {
+        "ID": "VN8974",
+        "capacity": 40,
+        "cost": 510,
+        "current": 5,
+        "location": "Hue",
+        "range": 50,
+        "time": "2225"
+    },
+    {
+        "ID": "VN6797",
+        "capacity": 40,
+        "cost": 100,
+        "current": 11,
+        "location": "Da Lat",
+        "range": 51,
+        "time": "0615"
+    },
+    {
+        "ID": "VN3475",
+        "capacity": 44,
+        "cost": 290,
+        "current": 37,
+        "location": "Sai Gon",
+        "range": 50,
+        "time": "0950"
+    },
+    {
+        "ID": "VN2796",
+        "capacity": 40,
+        "cost": 530,
+        "current": 5,
+        "location": "Hue",
+        "range": 25,
+        "time": "1635"
+    },
+    {
+        "ID": "VN4054",
+        "capacity": 40,
+        "cost": 170,
+        "current": 26,
+        "location": "Ha Noi",
+        "range": 50,
+        "time": "1950"
+    },
+    {
+        "ID": "VN1963",
+        "capacity": 56,
+        "cost": 280,
+        "current": 24,
+        "location": "Hue",
+        "range": 51,
+        "time": "1445"
+    },
+    {
+        "ID": "VN6352",
+        "capacity": 56,
+        "cost": 370,
+        "current": 37,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "1730"
+    },
+    {
+        "ID": "VN9896",
+        "capacity": 56,
+        "cost": 200,
+        "current": 36,
+        "location": "Nha Trang",
+        "range": 25,
+        "time": "0750"
+    },
+    {
+        "ID": "VN6306",
+        "capacity": 44,
+        "cost": 140,
+        "current": 38,
+        "location": "Ha Noi",
+        "range": 10,
+        "time": "1255"
+    },
+    {
+        "ID": "VN7318",
+        "capacity": 48,
+        "cost": 440,
+        "current": 4,
+        "location": "Da Nang",
+        "range": 25,
+        "time": "0510"
+    },
+    {
+        "ID": "VN4940",
+        "capacity": 40,
+        "cost": 170,
+        "current": 22,
+        "location": "Hai Phong",
+        "range": 51,
+        "time": "1115"
+    },
+    {
+        "ID": "VN4237",
+        "capacity": 56,
+        "cost": 240,
+        "current": 15,
+        "location": "Vinh",
+        "range": 50,
+        "time": "0950"
+    },
+    {
+        "ID": "VN9232",
+        "capacity": 40,
+        "cost": 240,
+        "current": 7,
+        "location": "Hai Phong",
+        "range": 10,
+        "time": "0935"
+    },
+    {
+        "ID": "VN4815",
+        "capacity": 52,
+        "cost": 450,
+        "current": 40,
+        "location": "Sai Gon",
+        "range": 10,
+        "time": "2250"
+    },
+    {
+        "ID": "VN3439",
+        "capacity": 44,
+        "cost": 300,
+        "current": 41,
+        "location": "Da Lat",
+        "range": 25,
+        "time": "1955"
+    },
+    {
+        "ID": "VN6388",
+        "capacity": 52,
+        "cost": 360,
+        "current": 14,
+        "location": "Hai Phong",
+        "range": 25,
+        "time": "1535"
+    },
+    {
+        "ID": "VN7194",
+        "capacity": 48,
+        "cost": 190,
+        "current": 6,
+        "location": "Da Lat",
+        "range": 51,
+        "time": "1340"
+    },
+    {
+        "ID": "VN2869",
+        "capacity": 40,
+        "cost": 300,
+        "current": 20,
+        "location": "Sai Gon",
+        "range": 50,
+        "time": "2355"
+    },
+    {
+        "ID": "VN3674",
+        "capacity": 52,
+        "cost": 420,
+        "current": 30,
+        "location": "Vinh",
+        "range": 25,
+        "time": "1705"
+    },
+    {
+        "ID": "VN1076",
+        "capacity": 48,
+        "cost": 320,
+        "current": 9,
+        "location": "Nha Trang",
+        "range": 50,
+        "time": "1755"
+    },
+    {
+        "ID": "VN8784",
+        "capacity": 40,
+        "cost": 400,
+        "current": 19,
+        "location": "Hai Phong",
+        "range": 5,
+        "time": "2025"
+    },
+    {
+        "ID": "VN6824",
+        "capacity": 56,
+        "cost": 380,
+        "current": 39,
+        "location": "Da Lat",
+        "range": 25,
+        "time": "0455"
+    },
+    {
+        "ID": "VN6932",
+        "capacity": 40,
+        "cost": 90,
+        "current": 5,
+        "location": "Hue",
+        "range": 5,
+        "time": "1120"
+    },
+    {
+        "ID": "VN8493",
+        "capacity": 48,
+        "cost": 110,
+        "current": 32,
+        "location": "Ha Noi",
+        "range": 50,
+        "time": "0500"
+    },
+    {
+        "ID": "VN4752",
+        "capacity": 48,
+        "cost": 260,
+        "current": 22,
+        "location": "Ha Noi",
+        "range": 25,
+        "time": "1105"
+    },
+    {
+        "ID": "VN4185",
+        "capacity": 40,
+        "cost": 300,
+        "current": 27,
+        "location": "Vinh",
+        "range": 50,
+        "time": "0345"
+    },
+    {
+        "ID": "VN4965",
+        "capacity": 40,
+        "cost": 300,
+        "current": 6,
+        "location": "Da Nang",
+        "range": 51,
+        "time": "0725"
+    }
+]

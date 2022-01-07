@@ -1,0 +1,65 @@
+[
+    {
+        "Birth": "19052002",
+        "ID": "241988654",
+        "Name": "Le Ngoc Duc",
+        "Password": "123",
+        "Phone": "0378871736",
+        "Sex": true,
+        "Username": "lengocduc"
+    },
+    {
+        "Birth": "18122003",
+        "ID": "492847384",
+        "Name": "Le Ngoc",
+        "Password": "146",
+        "Phone": "0998778765",
+        "Sex": false,
+        "Username": "lengoc"
+    },
+    {
+        "Birth": "341",
+        "ID": "948938728",
+        "Name": "",
+        "Password": "123",
+        "Phone": "121439",
+        "Sex": false,
+        "Username": "my"
+    },
+    {
+        "Birth": "11022002",
+        "ID": "2002",
+        "Name": "Huu Thien Tran",
+        "Password": "1",
+        "Phone": "0855054",
+        "Sex": true,
+        "Username": "huuthien"
+    },
+    {
+        "Birth": "01012002",
+        "ID": "123",
+        "Name": "123",
+        "Password": "1",
+        "Phone": "321",
+        "Sex": true,
+        "Username": "huuthien1"
+    },
+    {
+        "Birth": "17012002",
+        "ID": "0171",
+        "Name": "Thần Gió",
+        "Password": "12345",
+        "Phone": "0171",
+        "Sex": true,
+        "Username": "yasuo"
+    },
+    {
+        "Birth": "06012022",
+        "ID": "091840195",
+        "Name": "ten gi day",
+        "Password": "123",
+        "Phone": "813918761",
+        "Sex": true,
+        "Username": "tengiday"
+    }
+]
